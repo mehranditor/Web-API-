@@ -2,6 +2,8 @@
 
 ### Note: I made this project during my internship at yildiz technical university
 
+![App overview](./Screenshot%202025-10-02%20at%2014-46-42%20Log%20Analysis%20%26%20Summarization%20API.png)
+
 An opinionated ASP.NET Core 8 Web API demonstrating:
 - **Authentication/Authorization**: ASP.NET Core Identity + JWT (access/refresh), role seeding (Admin/User), admin key-to-JWT.
 - **User management**: CRUD + paging/filtering/sorting via MediatR and `UserRepository`.
